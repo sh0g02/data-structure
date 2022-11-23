@@ -3,4 +3,4 @@ project(untitled2 C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(data-structure main.c)
+add_executable(data-structure array/c1-2.c)
